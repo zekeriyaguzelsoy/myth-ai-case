@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "location": "Remote",
+    "category": "Development",
+    "description": "We are looking for a skilled Vue.js developer to build modern SPAs. Experience with Vue 3, Composition API, and modern JavaScript is required. You will work on exciting projects and collaborate with a talented team.",
+    "postedAt": "2025-05-10",
+    "salary": "$80,000 - $120,000",
+    "requirements": [
+      "Vue.js 3+ experience",
+      "JavaScript/TypeScript",
+      "HTML/CSS",
+      "Git version control",
+      "REST API experience"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Designer",
+    "company": "Designify",
+    "location": "New York, NY",
+    "category": "Design",
+    "description": "Design beautiful and intuitive user interfaces for web and mobile apps. You will create wireframes, prototypes, and high-fidelity designs. Experience with Figma, Sketch, or Adobe Creative Suite is required.",
+    "postedAt": "2025-05-15",
+    "salary": "$70,000 - $100,000",
+    "requirements": [
+      "Figma/Sketch experience",
+      "User research skills",
+      "Prototyping abilities",
+      "Design system knowledge",
+      "Portfolio required"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Marketing Specialist",
+    "company": "Growthify",
+    "location": "San Francisco, CA",
+    "category": "Marketing",
+    "description": "Drive user growth through SEO, content, and paid campaigns. You will develop marketing strategies, create content, and analyze performance metrics to optimize campaigns.",
+    "postedAt": "2025-05-17",
+    "salary": "$60,000 - $90,000",
+    "requirements": [
+      "SEO/SEM experience",
+      "Content creation skills",
+      "Analytics tools (Google Analytics)",
+      "Social media marketing",
+      "Email marketing"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Backend Developer",
+    "company": "DataFlow",
+    "location": "Austin, TX",
+    "category": "Development",
+    "description": "Build scalable backend services using Node.js and Python. You will work on microservices architecture, database design, and API development.",
+    "postedAt": "2025-05-20",
+    "salary": "$90,000 - $130,000",
+    "requirements": [
+      "Node.js/Python experience",
+      "Database design (SQL/NoSQL)",
+      "RESTful API development",
+      "Docker/Kubernetes",
+      "Cloud platforms (AWS/Azure)"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Sales Representative",
+    "company": "SalesPro",
+    "location": "Chicago, IL",
+    "category": "Sales",
+    "description": "Generate new business opportunities and manage client relationships. You will be responsible for prospecting, qualifying leads, and closing deals.",
+    "postedAt": "2025-05-22",
+    "salary": "$50,000 - $80,000 + commission",
+    "requirements": [
+      "Sales experience",
+      "CRM software knowledge",
+      "Excellent communication",
+      "Negotiation skills",
+      "Target-driven mindset"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Customer Support Specialist",
+    "company": "HelpDesk",
+    "location": "Remote",
+    "category": "Support",
+    "description": "Provide exceptional customer support through various channels. You will troubleshoot technical issues, answer questions, and ensure customer satisfaction.",
+    "postedAt": "2025-05-25",
+    "salary": "$40,000 - $60,000",
+    "requirements": [
+      "Customer service experience",
+      "Technical troubleshooting",
+      "Communication skills",
+      "Patience and empathy",
+      "Problem-solving abilities"
+    ]
+  }
+] 
